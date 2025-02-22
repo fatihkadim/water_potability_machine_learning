@@ -1,4 +1,3 @@
-# water_potability_machine_learning
 # Water Potability Prediction
 
 ## 📌 Project Overview
